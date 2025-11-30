@@ -11,7 +11,7 @@ Automated commiting and taging tool to push git repository to remote faster.
 Clone the repository
 
 ```bash
-git clone https://github.com/gaetanslrt/submitool.git`
+git clone https://github.com/gaetanslrt/submitool.git
 cd submitool
 ```
 
